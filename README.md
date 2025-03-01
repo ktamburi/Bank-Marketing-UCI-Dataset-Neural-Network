@@ -28,9 +28,3 @@ After preprocessing the data, the tests were divided into two main groups: one u
 
 After experimenting with various parameter combinations for hyperparameter tuning, the highest accuracy was achieved with the following configuration: activation function: ReLU, epochs: 300, learning rate: 510⁻⁴, and batch size: 150. However, the accuracy and loss history graphs during training were not smooth, indicating model confusion and potential underlying issues. When using a lower learning rate of 510⁻⁵, although the accuracy slightly decreased, the training graphs became smoother.
 
-## License
-This project is open-source and available under the MIT License.
-
-## Author
-**Klaudia Tamburi**
-
